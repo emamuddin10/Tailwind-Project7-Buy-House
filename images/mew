@@ -1,0 +1,19 @@
+my-24 bg-color-secondary py-10 px-7 //section
+
+lg:w-[1300px] lg:mx-auto lg:py-24 pb-5 //div
+
+<div class="text-center space-y-5 ">
+    <button class="px-3 py-2 bg-white border-2 rounded-3xl"><i class="fa-solid fa-arrow-right"></i>About
+      Us</button>
+    <h1 class="lg:text-3xl font-bold">Our Works Procces</h1>
+    <p class="lg:w-2/4 mx-auto">The barn house captivates with its blend of rustic charm and modern
+      sophistication, featuring weathered wood, sleek metal accents.</p>
+  </div>
+
+
+
+<!-- common button -->
+<div>
+    <button class="btn text-base  text-white bg-green-300 rounded-full">Explore More <img
+            class="bg-color-primary p-3 rounded-3xl" src="./images/arrow.png" alt=""></button>
+</div>
